@@ -1,0 +1,21 @@
+.album_cover{
+	width: 100%;
+	border: 20px solid #4e5d6c;
+}
+.photo_list{
+	width: 100%;
+	
+}
+.single_photo{
+	width: 100%;
+}
+p{
+	color: #df691a;
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+h5{
+	color: white;
+	text-align: center;
+}
